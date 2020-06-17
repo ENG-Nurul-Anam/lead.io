@@ -1,0 +1,21 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+.main-navbar{
+	border-bottom: 3px solid #17A2B8;
+}
+
+#header-section{
+	background: url(/assets/img/image-asset.jpeg) fixed no-repeat center top;
+	margin-top: 55px;
+}
+#header-section .dark-overlay{
+	background: rgba(0,0,0,0.5);
+}
+#testimonial-section, #contact-section{
+	background-color: #e9ecef;
+}
+#footer-section{
+	border-top: 3px solid #17A2B8;
+}
